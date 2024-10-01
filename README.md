@@ -6,7 +6,7 @@
   - YouTube: https://www.youtube.com/channel/UC-khMXanFBrr2s9VvhCt37A
   - LinkedIn: https://www.linkedin.com/in/dostee-hemin
 
-Check out my portfolio to see what I've been up to:
+Check out my portfolio to see what I've been up to:<br>
 https://dostee-hemin.github.io/Portfolio/
 
 <!---
