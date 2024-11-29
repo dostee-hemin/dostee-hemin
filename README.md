@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dostee-hemin
 - 👀 I’m interested in technology, space, video-making, and traveling
-- 🌱 I’m currently learning Software Engineering at the American University of Iraq, Sulaimaniyah
+- 🌱 I graduated with a Software Engineering degree at the American University of Iraq, Sulaimaniyah.
 - 📫 How to reach me:
   - Email: dostee.hemin@gmail.com
   - YouTube: https://www.youtube.com/channel/UC-khMXanFBrr2s9VvhCt37A
