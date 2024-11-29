@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @dostee-hemin
-- 👀 I’m interested in technology, space, video-making, and traveling
-- 🌱 I graduated with a Software Engineering degree at the American University of Iraq, Sulaimaniyah.
+- 👀 Check out my portfolio for an interactive rundown of who I am: https://dostee-hemin.github.io/Portfolio/
 - 📫 How to reach me:
   - Email: dostee.hemin@gmail.com
   - YouTube: https://www.youtube.com/channel/UC-khMXanFBrr2s9VvhCt37A
   - LinkedIn: https://www.linkedin.com/in/dostee-hemin
 
-Check out my portfolio to see what I've been up to:<br>
-https://dostee-hemin.github.io/Portfolio/
 
 <!---
 dostee-hemin/dostee-hemin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
